@@ -1,2 +1,2 @@
-admin:admin123
+admin:admin123------
 vendedor1:venta123
